@@ -17,11 +17,11 @@
 
 ```
 Домашна работа/
-├── Author.h
-├── Book.h
-├── Member.h
-├── Loan.h
-├── Library.h
+├── author.h
+├── book.h
+├── member.h
+├── loan.h
+├── library.h
 ├── README.md
 ├── image.png
 └── main.cpp
@@ -172,4 +172,5 @@ Book: "Nema zemya", Author: Ivan Vazov (1850), Year: 1900, Price: 18.90, ISBN: I
 **Курсов номер:** *22517*
 **Курс:** *Обектно-ориентирано програмиране (C++)*
 **Дата:** *02.12.2025 г.*
+
 
