@@ -15,7 +15,6 @@ class Book {
 
 public:
 
-    // --- 1) Default constructor ---
     Book()
         : title("Unknown"), author(), year(1900), price(0.0), isbn("N/A")
     {
@@ -104,6 +103,7 @@ public:
     
     static int getTotalBooks() { return totalBooks; }
 };
+
 
 
 
